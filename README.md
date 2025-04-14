@@ -25,7 +25,3 @@ Proje çalıştırıldığında ana sayfada kalkış/varış seçip seferleri li
 1. Bu repoyu klonlayın
 2. Visual Studio ile açın
 3. Gerekirse `appsettings.json` ya da startup konfigürasyonlarını kontrol edin
-4. F5 ile çalıştırın 🚀
-
-## Geliştiren
-[Adem Külçe](https://github.com/ademkulce)
